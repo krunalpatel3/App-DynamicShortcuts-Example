@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Dynamic Shortcuts</string>
+
+    <string name="add_shortcut_short_label">Add Task</string>
+    <string name="add_shortcut_long_label">@string/add_shortcut_short_label</string>
+
+    <string name="contact_shortcut_short_label">Contact Task</string>
+    <string name="contact_shortcut_long_label">@string/contact_shortcut_short_label</string>
+
+</resources>
